@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChengshunShang1996
-- 👀 I’m interested in DEM and Data-driven modeling for Geomechanics.
-- 🌱 I’m currently studying DEM as a PhD researcher in CIMNE.
+- 👀 I’m interested in DEM, rock mechanics, and multi-scale modeling.
+- 🌱 I’m currently developing Kratos DEMApplication as a PhD researcher in CIMNE.
 - 📫 Email: cshang@cimne.upc.edu
 
 <!---
