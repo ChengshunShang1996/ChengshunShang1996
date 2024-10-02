@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChengshunShang1996
-- 👀 I’m interested in DEM, DEM-FEM coupling, rock mechanics, and multi-scale modelling approach.
+- 👀 I’m interested in granular mechanics, geomechanics, and DEM.
 - 🌱 I’m currently developing Kratos DEMApplication as a PhD researcher in CIMNE.
 - 📫 Email: cshang@cimne.upc.edu
 
