@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChengshunShang1996
-- 👀 I’m interested in granular mechanics, geomechanics, and DEM.
-- 🌱 I’m currently developing Kratos DEMApplication as a PhD researcher in CIMNE.
+- 👀 I’m interested in **Granular Materials**, **Geomechanics**, and **Discrete Element Modeling**.
+- 🌱 I’m currently working as a PhD researcher in the structural and particle mechanics group of CIMNE.
 - 📫 Email: cshang@cimne.upc.edu
 
 <!---
