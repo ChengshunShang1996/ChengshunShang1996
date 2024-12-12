@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ChengshunShang1996
+- 👋 Hi, I’m @Chengshun Shang
 - 👀 I’m interested in **Granular Materials**, **Geomechanics**, and **Discrete Element Modeling**.
-- 🌱 I’m currently working as a PhD researcher in the structural and particle mechanics group of CIMNE.
+- 🌱 I’m currently working as a research engineer in the structural and particle mechanics group of CIMNE.
 - 📫 Email: cshang@cimne.upc.edu
 
 <!---
