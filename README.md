@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chengshun Shang
+- 👋 Hi, I’m @Chengshun Shang, a PhD researcher in computational mechanics.
 - 👀 I’m interested in **Granular Materials (Particle Mechanics)**, **Geomechanics**, and **Discrete Element Modeling**.
 - 🌱 I’m currently working as a research engineer in the structural and particle mechanics group of CIMNE.
 - 📫 Email: cshang@cimne.upc.edu
