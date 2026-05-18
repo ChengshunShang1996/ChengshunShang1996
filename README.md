@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chengshun Shang, a researcher in multiphysics computational mechanics.
-- 👀 I’m interested in **Granular Materials (Particle Mechanics)**, **Geomechanics**, and **Discrete Element Modeling**.
+- 👀 I’m interested in **Industrial multiphysics solver development**, **Computational mechanics**, **Discrete element modeling**, **Geotechnics**, and **AI-accelerated simulation**.
 - 🌱 I’m currently working as a researcher at Utrecht University. Before this position, I worked as a PhD researcher at CIMNE.
 - 📫 Email: c.shang@uu.nl
 
